@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="589.698189">
+<testcase classname="Free CRM login test and image upload feature" name="Free CRM Login test" time="169.481592">
+<system-out><![CDATA[Given : user is already on login page.......................................passed
+When : title of the login page is FREE CRM..................................passed
+When : we click on the login button.........................................passed
+Then : user enters "ppritesh.sinha@gmail.com" and  "Bng$20167"..............passed
+Then : user clicks on login button..........................................passed
+And : user is on home page..................................................passed
+When : user mouse hover on New Contact Link.................................passed
+Then : user creating new contact by entering  "ITC1 Test" and "Automation1" and "testdata1@itc.com" and "testjava 1" and upload picture.passed
+Then : click on save buttton................................................passed
+Then : user mouse hover on New Contact Link to confirm the contact is added.passed
+Then : Close the browser....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM login test and image upload feature" name="Free CRM Login test" time="185.211521">
+<system-out><![CDATA[Given : user is already on login page.......................................passed
+When : title of the login page is FREE CRM..................................passed
+When : we click on the login button.........................................passed
+Then : user enters "ppritesh.sinha@gmail.com" and  "Bng$20167"..............passed
+Then : user clicks on login button..........................................passed
+And : user is on home page..................................................passed
+When : user mouse hover on New Contact Link.................................passed
+Then : user creating new contact by entering  "ITC2 Test" and "Automation2" and "testdata2@itc.com" and "testjava 2" and upload picture.passed
+Then : click on save buttton................................................passed
+Then : user mouse hover on New Contact Link to confirm the contact is added.passed
+Then : Close the browser....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM login test and image upload feature" name="Free CRM Login test" time="97.313501">
+<system-out><![CDATA[Given : user is already on login page.......................................passed
+When : title of the login page is FREE CRM..................................passed
+When : we click on the login button.........................................passed
+Then : user enters "ppritesh.sinha@gmail.com" and  "Bng$20167"..............passed
+Then : user clicks on login button..........................................passed
+And : user is on home page..................................................passed
+When : user mouse hover on New Contact Link.................................passed
+Then : user creating new contact by entering  "ITC3 Test" and "Automation3" and "testdata3@itc.com" and "testjava 3" and upload picture.passed
+Then : click on save buttton................................................passed
+Then : user mouse hover on New Contact Link to confirm the contact is added.passed
+Then : Close the browser....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM login test and image upload feature" name="Free CRM Login test" time="137.691575">
+<system-out><![CDATA[Given : user is already on login page.......................................passed
+When : title of the login page is FREE CRM..................................passed
+When : we click on the login button.........................................passed
+Then : user enters "ppritesh.sinha@gmail.com" and  "Bng$20167"..............passed
+Then : user clicks on login button..........................................passed
+And : user is on home page..................................................passed
+When : user mouse hover on New Contact Link.................................passed
+Then : user creating new contact by entering  "ITC4 Test" and "Automation4" and "testdata4@itc.com" and "testjava 4" and upload picture.passed
+Then : click on save buttton................................................passed
+Then : user mouse hover on New Contact Link to confirm the contact is added.passed
+Then : Close the browser....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
